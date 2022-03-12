@@ -1,6 +1,12 @@
 h1 {
-    color:blue;
+    color:red;
     text-align: center;
+    font-style: normal;
+    font-weight: bolder;
+    font-family: 'Gill Sans';
+    font-size: xx-large;
+    line-height: 20px;
+
 }
 
 h2 {
