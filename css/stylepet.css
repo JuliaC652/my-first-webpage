@@ -1,0 +1,35 @@
+body {
+  background: radial-gradient(gray,blue);
+  padding-left: 10%;
+  padding-right: 10%;
+  color: whitesmoke;
+}
+
+h3 {
+  padding-left: 2%;
+  color: aliceblue;
+  font-weight: bolder;
+  font-size: x-large;
+  background: linear-gradient(orange, red);
+}
+
+.dog {
+  padding-right: 50%;
+  font-family: Arial, Helvetica, sans-serif;
+  font-weight: 500;
+  color:mintcream;
+}
+
+.cat {
+  padding-left: 42%;
+    font-family:'Segoe UI';
+  font-weight:600;
+  color:floralwhite
+}
+
+.end {
+  text-align: center;
+  color: red;
+  font-weight: bold;
+  margin-top: 10%;
+}
